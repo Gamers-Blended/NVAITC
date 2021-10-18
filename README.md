@@ -1,0 +1,2 @@
+# NVAITC
+Notes for NVIDIA's RAPIDS
